@@ -3,7 +3,6 @@ package Solution_10_19;
 import java.util.*;
 import java.io.*;
 
-//Write your code here
 class Calculator {
 
 	public int power(int n, int p) throws Exception {
